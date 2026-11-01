@@ -7,6 +7,8 @@
 - 📫 How to reach me: dont
 - ⚡ Fun fact: I dont like corpo
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <!--
 **katramis/katramis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
