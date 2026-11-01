@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on an evil corporate job
+- 🌱 I’m currently learning how to exit corporate
+- 👯 I’m looking to collaborate on nothing
+- 💬 Ask me about nothing
+- 📫 How to reach me: dont
+- ⚡ Fun fact: I dont like corpo
+
 <!--
 **katramis/katramis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
